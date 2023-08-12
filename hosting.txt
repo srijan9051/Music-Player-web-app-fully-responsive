@@ -1,0 +1,7 @@
+Netlify hosting:
+
+https://songsbysrijan.netlify.app/
+
+Git-Hub hosting:
+
+https://github.com/srijan9051/Music-Player-web-app-fully-responsive.git
